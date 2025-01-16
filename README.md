@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piotr Janiszewski</h1>
 <h3 align="center">A passionate developer from Poland</h3>
 
-- 🔭 I’m currently working on **Order Fulfillment Microservice Using React and Go Technologies**
+- 🔭 I’m currently working on **Order Management Microservice Using React and Go Technologies**
 
 - 🌱 I’m currently learning **GO, React, concurrent computing in C++**
 
